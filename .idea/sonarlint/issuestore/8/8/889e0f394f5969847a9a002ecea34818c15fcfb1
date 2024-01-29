@@ -1,0 +1,10 @@
+
+
+java:S13192"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(­ ùİ8©ú‹ÜÓ1
+
+java:S13196"nThe type of "acquisElements" should be an interface such as "List" rather than the implementation "ArrayList".(‚Æû§ûÿÿÿÿ8«ú‹ÜÓ1
+’
+java:S1319:"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(¶™•øıÿÿÿÿ8«ú‹ÜÓ1
+“
+java:S1319>"qThe type of "nonAcquisElements" should be an interface such as "List" rather than the implementation "ArrayList".(‘Î»ıÿÿÿÿ8«ú‹ÜÓ1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ËËÈıÿÿÿÿ8âªƒÜÓ1
